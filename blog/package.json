@@ -2,6 +2,16 @@
   "name": "blog",
   "type": "module",
   "version": "0.0.1",
+  "description": "Blog",
+  "keywords": [
+    "blog"
+  ],
+  "license": "Pearl Milk Tea (PMT)",
+  "author": "YTKme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YTKme/YTK.me.git"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -10,5 +20,6 @@
   },
   "dependencies": {
     "astro": "^5.17.1"
-  }
+  },
+  "devDependencies": {}
 }
