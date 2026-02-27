@@ -1,3 +1,16 @@
+##########
+# Global #
+##########
+
+package-lock.json
+
+#########
+# astro #
+#########
+
+# Generated Type
+.astro/
+
 ###########
 # node.js #
 ###########
